@@ -5,26 +5,17 @@
 
 Welcome to my profile! I'm currently a software developer at Environment Canada 🇨🇦. In general I'm either [reading](https://www.goodreads.com/user/show/145435240-thivagar) or plotting world domination 😇.
 
-```ts
-const thiv = {
-  workingOn: "Muse", // https://github.com/ThivagarNadarajan/Muse
-  stack: ["React", "Angular", "Node.js", "TypeScript"],
-  learningAbout: ["Git Hooks", "CI/CD", "Electron"],
-  needs: "book recommendations",
-};
-```
-
 ## 🌍 My World
 
 - 👨‍💻 Currently woring on [Muse](https://github.com/ThivagarNadarajan/Muse)
 - 🪄 My stack: React, Angular, Node.js, TypeScript
 - 💼 Check out my [resume](https://thivagar.com/static/media/Resume.408263f0.pdf)
-- 📝 Learning about Git Hooks, CI/CD and Electron
+- 🌱 Learning about Git Hooks, CI/CD and Electron
 - ✉️ Reach me on [LinkedIn](https://www.linkedin.com/in/thivagar-nadarajan/) or [email](mailto:thiv.nadarajan@gmail.com)
 - 📚 In dire need of book recommendations
 
 ## 📊 Stats (I'm working on it 😅)
 
-![Thiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThivagarNadarajan&theme=material-palenight)
+![Thiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThivagarNadarajan)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThivagarNadarajan&layout=compact&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThivagarNadarajan&layout=compact)
