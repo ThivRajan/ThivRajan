@@ -14,8 +14,6 @@ Welcome to my profile! I'm currently a software developer at Environment Canada 
 - ✉️ Reach me on [LinkedIn](https://www.linkedin.com/in/thivagar-nadarajan/) or [email](mailto:thiv.nadarajan@gmail.com)
 - 📚 In dire need of book recommendations
 
-## 📊 Stats (I'm working on it 😅)
+## 📈 Stats (I'm working on it 😅)
 
 ![Thiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThivagarNadarajan)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThivagarNadarajan&layout=compact)
