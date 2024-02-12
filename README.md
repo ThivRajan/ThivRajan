@@ -1,4 +1,4 @@
-## Hello! [Thiv](https://thivagar.com/) here 👋
+## Hello! Thiv here 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thivagar_Nadarajan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thivagar-nadarajan/)](https://www.linkedin.com/in/thivagar-nadarajan/)
 [![Gmail Badge](https://img.shields.io/badge/-thiv.nadarajan@gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:thiv.nadarajan@gmail.com)](mailto:thiv.nadarajan@gmail.com)
